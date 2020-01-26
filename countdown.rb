@@ -5,7 +5,7 @@ puts " # {x} is less than 10"
 x -= 10
 nil 
 while "# {10} SECOND(S)!"
-do  countdown_with_sleep
+def countdown_with_sleep
 puts "HAPPY NEW YEAR!"
 nil 
 end
