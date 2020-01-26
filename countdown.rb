@@ -4,7 +4,7 @@ while x < 10
 puts " # {x} is less than 10"
 x += 1
 nil 
-def "# {10} SECOND(S)!"
+while "# {10} SECOND(S)!"
 puts "HAPPY NEW YEAR!"
 nil 
 end
