@@ -6,6 +6,6 @@ x += 1
 nil 
 def countdown
 "# {10} SECOND(S)!"
-nil "HAPPY NEW YEAR!"
-
+puts "HAPPY NEW YEAR!"
+nil 
 end
